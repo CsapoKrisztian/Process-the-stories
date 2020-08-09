@@ -741,3 +741,7 @@ A felsővezetés kell hozzá.
 
 Utolsó utáni pillanatban kérnek bele fejlesztést, ezért a project el úszhat akár
 több hónapra is.
+
+
+Mindmap
+![](mindmap.png)
