@@ -1,4 +1,4 @@
-Week03 Team03 Előadásjegyzetek
+# Week03 Team03 Előadásjegyzetek
 
 **Hétfő 13:00 - Web - Kram György**
 
@@ -743,5 +743,6 @@ Utolsó utáni pillanatban kérnek bele fejlesztést, ezért a project el úszha
 több hónapra is.
 
 
-Mindmap
+### Mindmap
+
 ![](mindmap.png)
